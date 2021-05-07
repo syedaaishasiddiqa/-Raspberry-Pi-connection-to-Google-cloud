@@ -1,6 +1,6 @@
 # -Raspberry-Pi-connection-to-Google-cloud
 
-                    Google Cloud IoT using Raspberry Pi
+            
 Introduction
 The Internet of Things (IoT) is a network of physical objects (also known as "things") that are embedded with sensors, software, and other technologies in order to communicate and exchange data with other devices and systems over the Internet. In this code lab, we are going to build a data pipeline that begins with an Internet of Things (IoT) system that collects heart rate data, then uses IoT Core to securely publish the data to a message queue, from which it will be transported to a data warehouse. Although it is helpful to build out the Raspberry Pi, it is not needed for this code lab, and the streaming data can be simulated with a script.
 
