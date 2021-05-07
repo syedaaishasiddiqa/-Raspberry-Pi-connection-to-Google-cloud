@@ -48,3 +48,10 @@ We need to check if the data is flowing properly and visualize the data using Go
  **Summary**
  
 This report demonstrates how to use Google Cloud. Using a Google Cloud Dataflow template and Google BigQuery, build a Google Pub/Sub data pipeline with no code. An entire data pipeline, as evidenced by the output above, this is done by using Google IoT Core to secure IoT devices and enable data to flow into Google Pub/Sub, deploying Dataflow from a template and pushing data into BigQuery, and then using the Google Sheets integration to perform a fast data visualization.
+
+Video links
+Video links: https://www.youtube.com/watch?v=dZYzg-18O5s
+
+https://www.youtube.com/watch?v=wvxCNQ5AYPg
+
+https://www.youtube.com/watch?v=iWlPIm05RJ4
